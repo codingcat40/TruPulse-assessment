@@ -7,7 +7,6 @@ A simple notes application that works both online and offline, built with React 
 -  Create, edit, and delete notes
 -  Search notes by title or content
 -  Works offline with local storage
--  Automatic sync when back online
 - Clean and responsive design
 
 ## Setup Instructions
